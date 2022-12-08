@@ -1,5 +1,7 @@
 # Countcent
 
+ 🚧 WIP : this project is in progress
+
 Count every cent you expend 💸.
 
 This project is an expense tracker so that you can keep track of every Cent you spend.
